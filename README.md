@@ -1,7 +1,7 @@
 <h2 align="center">
 Hola soy Gonzalo!
 </h2>
-![Hi, I'm Wanda](https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/Portada.gif)
+<a><img src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/Portada.gif"></a>
 
 <h2 align="center">
 Full Stack Developer :heart: from Argentina to :earth_americas:
