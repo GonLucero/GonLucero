@@ -32,9 +32,10 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 &nbsp;
 
 ## :pushpin: Stats
+<p align="center">
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonlucero&langs_count=5&theme=tokyonight"></a>
 <a><img src="https://github-readme-stats.vercel.app/api/?username=gonlucero&count_private=true&theme=tokyonight&showicons=true"></a>
-
+</p>
 
 ## :pushpin: My proyects
 <h3>Videogames App</h3>
