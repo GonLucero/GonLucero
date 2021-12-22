@@ -31,7 +31,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 ## :pushpin: My proyects
 <h3>Videogames App</h3>
 <p>
-  <a><img src="https://github.com/GonLucero/workshop-heroku-1/blob/master/videogame.png"></a>
+  <a><img src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/Welcome.png"></a>
 </p>
 
 &nbsp;
