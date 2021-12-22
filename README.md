@@ -1,5 +1,5 @@
 <h2 align="center">
-Hola soy Gonzalo!
+Hi i'm Gonzalo! 👋
 </h2>
 <a><img src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/Portada.gif"></a>
 
