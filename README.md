@@ -1,3 +1,6 @@
+<h2 align="center">
+Hola soy Gonzalo!
+</h2>
 ![Hi, I'm Wanda](https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/Portada.gif)
 
 <h2 align="center">
