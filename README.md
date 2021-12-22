@@ -1,4 +1,4 @@
-![Hi, I'm Wanda](https://github.com/WanCirone/wancirone/blob/main/assets/hi.gif)
+![Hi, I'm Wanda](https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/Portada.gif)
 
 <h2 align="center">
 Full Stack Developer :heart: from Argentina to :earth_americas:
