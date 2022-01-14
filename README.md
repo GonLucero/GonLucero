@@ -55,7 +55,7 @@ Screens designed by me in the project
 </p>
 
   <h3 align="center">
-the other screens of the project
+The other screens of the project
 </h3>
 
 <p align="center">
