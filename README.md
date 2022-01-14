@@ -44,15 +44,14 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 <h2 align="center">
 Screens designed by me in the project
 </h2>
-<p>
+<p align="center">
   <a href="https://workshop-heroku-1-8otlrxcgl-gonlucero.vercel.app/"><img width="25%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/10.png"></a>
-  <a><img width="25%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/12.png"></a>
-  <a><img width="25%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/3.png"></a>
+  <a><img width="35%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/12.png"></a>
+  <a><img width="35%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/3.png"></a>
 </p>
 <p>
-  <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/8.png"></a>
-  <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/6.png"></a>
-  <a><img width="5%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/nintendo.png"></a>
+  <a><img width="35%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/8.png"></a>
+  <a><img width="35%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/6.png"></a>
 </p>
 
 
