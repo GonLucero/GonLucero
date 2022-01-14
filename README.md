@@ -50,8 +50,8 @@ Screens designed by me in the project
   <a><img width="25%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/3.png"></a>
 </p>
 <p>
-  <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/pi3.png"></a>
-  <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/pi4.png"></a>
+  <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/8.png"></a>
+  <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/6.png"></a>
   <a><img width="5%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/nintendo.png"></a>
 </p>
 
