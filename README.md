@@ -37,7 +37,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 <a><img src="https://github-readme-stats.vercel.app/api/?username=gonlucero&count_private=true&theme=tokyonight&showicons=true"></a>
 </p>
 
-## :pushpin: <h1>My proyects </h1>
+##  <h1>:pushpin: My proyects </h1>
 
 <h2>LogiExpress App</h2>
 
