@@ -43,7 +43,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 <p>
   <a href="https://workshop-heroku-1-8otlrxcgl-gonlucero.vercel.app/"><img width="25%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/10.png"></a>
   <a><img width="25%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/1.png"></a>
-  <a><img width="25%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/2.png"></a>
+  <a><img width="25%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/3.png"></a>
 </p>
 <p>
   <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/pi3.png"></a>
