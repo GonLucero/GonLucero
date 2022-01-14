@@ -39,11 +39,11 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 ## :pushpin: My proyects
 
-<h3>LogiExpress App</h3>
+<h2>LogiExpress App</h2>
 
-<h2 align="center">
+<h3 align="center">
 Screens designed by me in the project
-</h2>
+</h3>
 <p align="center">
   <a href="https://workshop-heroku-1-8otlrxcgl-gonlucero.vercel.app/"><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/10.png"></a>
   <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/12.png"></a>
@@ -54,21 +54,21 @@ Screens designed by me in the project
   <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/6.png"></a>
 </p>
 
-  <h2 align="center">
+  <h3 align="center">
 the other screens of the project
-</h2>
+</h3>
 
 <p align="center">
-  <a href="https://workshop-heroku-1-8otlrxcgl-gonlucero.vercel.app/"><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/10.png"></a>
-  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/12.png"></a>
-  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/3.png"></a>
+  <a href="https://workshop-heroku-1-8otlrxcgl-gonlucero.vercel.app/"><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/4.png"></a>
+  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/7.png"></a>
+  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/9.png"></a>
 </p>
 <p align="center">
-  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/8.png"></a>
-  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/6.png"></a>
+  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/2.png"></a>
+  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/5.png"></a>
 </p>
 
-<h3>Videogames App</h3>
+<h2>Videogames App</h2>
 <p>
   <a href="https://workshop-heroku-1-8otlrxcgl-gonlucero.vercel.app/"><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/Welcome.png"></a>
   <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/pi1.png"></a>
