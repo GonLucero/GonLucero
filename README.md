@@ -38,6 +38,20 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 </p>
 
 ## :pushpin: My proyects
+
+<h3>LogiExpress App</h3>
+<p>
+  <a href="https://workshop-heroku-1-8otlrxcgl-gonlucero.vercel.app/"><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/Welcome.png"></a>
+  <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/pi1.png"></a>
+  <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/pi2.png"></a>
+</p>
+<p>
+  <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/pi3.png"></a>
+  <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/pi4.png"></a>
+  <a><img width="5%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/nintendo.png"></a>
+</p>
+
+
 <h3>Videogames App</h3>
 <p>
   <a href="https://workshop-heroku-1-8otlrxcgl-gonlucero.vercel.app/"><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/Welcome.png"></a>
