@@ -45,7 +45,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 Screens designed by me in the project
 </h3>
 <p align="center">
-  <a href="https://workshop-heroku-1-8otlrxcgl-gonlucero.vercel.app/"><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/10.png"></a>
+  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/10.png"></a>
   <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/12.png"></a>
   <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/3.png"></a>
 </p>
@@ -59,7 +59,7 @@ The other screens of the project
 </h3>
 
 <p align="center">
-  <a href="https://workshop-heroku-1-8otlrxcgl-gonlucero.vercel.app/"><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/4.png"></a>
+  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/4.png"></a>
   <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/7.png"></a>
   <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/9.png"></a>
 </p>
@@ -70,7 +70,7 @@ The other screens of the project
 
 <h2>Videogames App</h2>
 <p>
-  <a href="https://workshop-heroku-1-8otlrxcgl-gonlucero.vercel.app/"><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/Welcome.png"></a>
+  <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/Welcome.png"></a>
   <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/pi1.png"></a>
   <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/pi2.png"></a>
 </p>
