@@ -37,48 +37,10 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 <a><img src="https://github-readme-stats.vercel.app/api/?username=gonlucero&count_private=true&theme=tokyonight&showicons=true"></a>
 </p>
 
-##  <h1>:pushpin: My proyects </h1>
+##  <h1>:pushpin: My portfolio </h1>
 
-<h2>LogiExpress App</h2>
+<a href={https://gonzalo-lucero.vercel.app/}>Gonzalo Lucero</h2>
 
-<h3 align="center">
-Screens designed by me in the project
-</h3>
-<p align="center">
-  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/10.png"></a>
-  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/12.png"></a>
-  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/3.png"></a>
-</p>
-<p align="center">
-  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/8.png"></a>
-  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/6.png"></a>
-</p>
-
-  <h3 align="center">
-The other screens of the project
-</h3>
-
-<p align="center">
-  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/4.png"></a>
-  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/7.png"></a>
-  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/9.png"></a>
-</p>
-<p align="center">
-  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/2.png"></a>
-  <a><img width="30%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/5.png"></a>
-</p>
-
-<h2>Videogames App</h2>
-<p>
-  <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/Welcome.png"></a>
-  <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/pi1.png"></a>
-  <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/pi2.png"></a>
-</p>
-<p>
-  <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/pi3.png"></a>
-  <a><img width="45%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/pi4.png"></a>
-  <a><img width="5%" src="https://github.com/GonLucero/Pifinal/blob/main/client/src/Componentes/images/nintendo.png"></a>
-</p>
 
 &nbsp;
 
