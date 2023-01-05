@@ -37,10 +37,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 <a><img src="https://github-readme-stats.vercel.app/api/?username=gonlucero&count_private=true&theme=tokyonight&showicons=true"></a>
 </p>
 
-##  <h1>:pushpin: My portfolio </h1>
-
-<a href={https://gonzalo-lucero.vercel.app/}>Gonzalo Lucero</h2>
-
+##  <a href="https://gonzalo-lucero.vercel.app">:pushpin: My portfolio </h1>
 
 &nbsp;
 
